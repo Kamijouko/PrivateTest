@@ -1,12 +1,17 @@
 # 🧩 RimWorld Mod Showcase
 
+🎮 **関連リポジトリ / Related Repositories**
+
+| 🧱 Mod名 | 🌐 GitHubリンク |
+|----------|----------------|
+| NareisLib（多層レンダリングフレームワーク） | [🔗 NareisLib Repository](https://github.com/Kamijouko/NareisLib) |
+| RimSpine2DFramework（Spine2D動的レンダリング） | [🔗 RimSpine2DFramework Repository](https://github.com/Kamijouko/RimSpine2DFramework/tree/1.6) |
+| Arknights StoryTeller（動的ナレーターMod）
+
+---
+
 私のRimWorld用Mod紹介ページをご覧いただき、ありがとうございます。  
-
 このページでは、ゲームの進行に合わせて以下のModを順に紹介していきます：
-
-- 🧱 多層レンダリングフレームワーク **NareisLib** とその派生シリーズ **Annelitrice**  
-- 🌀 動的レンダリングフレームワーク **RimSpine2DFramework**  
-- 🎭 動的キャラクターおよびナレーターMod **Arknights StoryTeller**
 
 ---
 
