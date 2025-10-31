@@ -192,7 +192,7 @@ NareisLib では毎フレームすべての画像の描画優先度を正確に�
 以上で紹介はすべてとなります。  
 なお、**NareisLib** を基盤として開発された **Annelitrice 種族** には、他にも多くの美しい衣装や独自のゲームシステムが実装されていますが、ここでの説明は割愛させていただきます。  
 
-![図16：Annelitrice種族の一例](./images/annelitrice-sample.png)  
+![図16：Annelitrice種族の一例](./images/15.jpg)  
 *図16：Annelitriceキャラクター例*
 
 最後までご覧いただき、誠にありがとうございました。🙌
