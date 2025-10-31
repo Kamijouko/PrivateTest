@@ -1,4 +1,5 @@
 # 🧩 RimWorld Mod Showcase
+> 💬 **Note:** 本リポジトリに含まれるすべてのソースコードおよび実装は、私（開発者本人）によって作成されたものです。
 
 🎮 **関連リポジトリ / Related Repositories**
 
