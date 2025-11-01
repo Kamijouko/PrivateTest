@@ -9,6 +9,32 @@
 | RimSpine2DFramework（Spine2D動的レンダリング） | [🔗 RimSpine2DFramework Repository](https://github.com/Kamijouko/RimSpine2DFramework/tree/1.6) |
 | Arknights StoryTeller（動的ナレーターMod）
 
+## 🧰 ソースコード（.sln）での DLL 参照設定
+
+ソースコードを直接開発・確認したい方向けの手順です。  
+本プロジェクトでは、いくつかの外部ライブラリ（DLL）を参照しています。  
+必要な DLL は **Releases** に同梱していますので、以下の手順で設定してください。
+
+---
+
+### 🔹 手順
+
+1. **Releases** ページから **`Managed-1.6.7z`** をダウンロードします。  
+2. ダウンロード後、アーカイブを解凍し、`Managed-1.6/` フォルダを用意します。  
+
+3. **Visual Studio** の上部メニューから  
+   **「プロジェクト(P)」 → 「参照の追加(R)...」** を選択します。  
+   <!--![図：メニューから参照の追加を開く](./images/vs-menu-reference.png)-->
+
+4. 「参照マネージャー」ウィンドウが開いたら、右下にある **「参照(Browse)...」** ボタンをクリックします。  
+   <!--![図：参照マネージャー下部の参照ボタン](./images/vs-reference-browse.png)-->
+
+5. 解凍した **`Managed-1.6/` フォルダ** を開き、フォルダ内のすべての `.dll` ファイルを選択して「追加」をクリックします。  
+
+6. 「OK」 を押して参照を確定し、**ビルド（Ctrl + Shift + B）** を実行して動作を確認します。  
+
+> 💡 `Managed-1.6/` 内の DLL は **すべて選択して一括追加** することが可能です。  
+
 ---
 
 私のRimWorld用Mod紹介ページをご覧いただき、ありがとうございます。  
