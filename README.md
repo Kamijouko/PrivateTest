@@ -1,5 +1,7 @@
 # 🧩 RimWorld Mod Showcase
-> 💬 **Note:** 本リポジトリに含まれるすべてのソースコードおよび実装は、私（開発者本人）によって作成されたものです。
+> 💬 **Note:**  
+> 本リポジトリに含まれるソースコードのうち、NareisLib の全コードは開発者本人による実装です。
+RimSpine2DFramework については、Spine2D公式ランタイムを除く部分をすべて開発者本人が作成しています。
 
 🎮 **関連リポジトリ / Related Repositories**
 
