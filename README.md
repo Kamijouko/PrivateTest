@@ -20,6 +20,9 @@ RimSpine2DFramework については、Spine2D公式ランタイムを除く部�
 また、いくつかの外部ライブラリ（DLL）を参照しています。  
 必要な DLL は **Releases** に同梱していますので、以下の手順で設定してください。
 
+※ すべてのアーカイブ（.7z）は 7-Zip 等で解凍してください。  
+（7-Zip は無料で利用可能です：<a href="https://www.7-zip.org" target="_blank">https://www.7-zip.org/</a>）
+
 ---
 
 ### 🔹 手順
