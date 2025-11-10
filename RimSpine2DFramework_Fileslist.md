@@ -49,5 +49,5 @@
 │           ├── Spine38RuntimeAdapter.cs（Codexの支援を受けて作成・改良）
 │           ├── Spine40RuntimeAdapter.cs（Codexの支援を受けて作成・改良）
 │           └── Spine41RuntimeAdapter.cs（Codexの支援を受けて作成・改良）
-└── DynamicObject.sln（自作）
+└── DynamicObject.sln
 ```
