@@ -5,7 +5,7 @@
 | 🧱 Mod名 | 🌐 GitHubリンク |
 |----------|----------------|
 | NareisLib（多層レンダリングフレームワーク） | [🔗 NareisLib Repository](https://github.com/Kamijouko/NareisLib) |
-| RimSpine2DFramework（Spine2D動的レンダリング） | [🔗 RimSpine2DFramework Repository](https://github.com/Kamijouko/RimSpine2DFramework/tree/1.6) |
+| RimSpine2DFramework（Spine2D動的レンダリングフレームワーク） | [🔗 RimSpine2DFramework Repository](https://github.com/Kamijouko/RimSpine2DFramework/tree/1.6) |
 | Arknights StoryTeller（アニメーション立絵付きストーリーテラーMod）
 
 ## 🧰 ソースコード（.sln）での DLL 参照設定
